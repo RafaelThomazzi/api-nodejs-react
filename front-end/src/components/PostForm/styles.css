@@ -1,0 +1,16 @@
+.post-form {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.post-form label{
+    font-size: 18px;
+    font-weight: bold;    
+}
